@@ -1,0 +1,35 @@
+# Core ML Libraries
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Streamlit
+streamlit
+
+# Network Capture (optional - requires admin/root)
+# scapy
+# pyshark
+
+# Utilities
+python-dotenv
+requests
+tqdm
+
+# Data Processing
+openpyxl
+
+# Logging
+loguru
